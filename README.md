@@ -33,25 +33,6 @@ The goal of this project is to create a unified report that caters to stakeholde
 
   **<img width="579" alt="Exective View" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/69e04d42-e853-4f2e-a127-3ca34283437b">**
 
-### Tech Skills Acquired
-
-- SQL
-- PowerBI Desktop
-- Excel
-- DAX language
-- DAX studio (for optimizing the report)
-- Project charter file
-
-### Key Learnings
-
-- **Power Query:** Data cleaning and transformation through an intuitive graphical interface.
-- **Data Modeling:** Established relationships between tables and creating tables, calculated columns, measures using DAX.
-- **DAX (Data Analysis Expressions):** Writing and using DAX formulas for calculations and aggregations.
-- **Visualization Tools:** Created interactive charts, graphs, and KPI indicators for effective data presentation. Utilized Bookmarks to switch between visuals and navigated pages using buttons.
-- **Choosing Visuals and Formatting:** Learned to choose the right visuals and formatting techniques for impactful data presentation.
-- **Power BI Service:** Gained proficiency in publishing, sharing, and collaborating on reports and dashboards through the cloud-based Power BI service.
-- **Integration with Microsoft Tools:** Explored how Power BI integrates seamlessly with other Microsoft tools like Excel, SharePoint, Teams, and Azure.
-
 ### Business Related Terms
 
 - **Gross price**
@@ -136,8 +117,30 @@ Analyze before you dive! Exploring the data first helps identify available dimen
 
 ### Data Modeling
 
+**<img width="720" alt="Data Modelling" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/0f4149b1-fabb-405a-8384-0fab29c97a56">**
+
 Data modeling is crucial and forms the foundation of a report. All visuals are built upon the data model, making it a critical component for accurate insights. Poor data modeling can significantly impact the overall performance of the report.
 
 Adhering to best practices in data modeling is essential for optimal performance.
 
 please find the live Dashboard link [here](https://app.powerbi.com/view?r=eyJrIjoiMGNmYjhlYmYtZTNhOC00MTUxLTlkZTEtNjMwNDU3MmExNDIyIiwidCI6IjFhNjI4ZjEzLTEyYTUtNGI0OS05YWRjLTY5NGFkNzI2ZmU1MyJ9)
+
+### Tech Skills Acquired:
+
+- SQL
+- PowerBI Desktop
+- Excel
+- DAX language
+- DAX studio (for optimizing the report)
+- Project charter file
+
+### Key Learnings:
+
+- **Power Query:** Data cleaning and transformation through an intuitive graphical interface.
+- **Data Modeling:** Established relationships between tables and creating tables, calculated columns, measures using DAX.
+- **DAX (Data Analysis Expressions):** Writing and using DAX formulas for calculations and aggregations.
+- **Visualization Tools:** Created interactive charts, graphs, and KPI indicators for effective data presentation. Utilized Bookmarks to switch between visuals and navigated pages using buttons.
+- **Choosing Visuals and Formatting:** Learned to choose the right visuals and formatting techniques for impactful data presentation.
+- **Power BI Service:** Gained proficiency in publishing, sharing, and collaborating on reports and dashboards through the cloud-based Power BI service.
+- **Integration with Microsoft Tools:** Explored how Power BI integrates seamlessly with other Microsoft tools like Excel, SharePoint, Teams, and Azure.
+
