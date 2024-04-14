@@ -123,7 +123,7 @@ Data modeling is crucial and forms the foundation of a report. All visuals are b
 
 Adhering to best practices in data modeling is essential for optimal performance.
 
-please find the live Dashboard link [here](https://app.powerbi.com/view?r=eyJrIjoiMGNmYjhlYmYtZTNhOC00MTUxLTlkZTEtNjMwNDU3MmExNDIyIiwidCI6IjFhNjI4ZjEzLTEyYTUtNGI0OS05YWRjLTY5NGFkNzI2ZmU1MyJ9)
+Here's the live Dashboard link for our Power BI project at AtliQ Hardware: [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMGNmYjhlYmYtZTNhOC00MTUxLTlkZTEtNjMwNDU3MmExNDIyIiwidCI6IjFhNjI4ZjEzLTEyYTUtNGI0OS05YWRjLTY5NGFkNzI2ZmU1MyJ9)
 
 ### Tech Skills Acquired:
 
