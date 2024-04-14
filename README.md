@@ -14,10 +14,25 @@ The goal of this project is to create a unified report that caters to stakeholde
 #### Dashboard Overview
 
 - **Finance:** Analyze profitability and track sales performance through P&L and sales trends.
+
+  **<img width="578" alt="Finance View" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/1c5195ba-de1c-48ae-95b6-16d93dc0cbca">**
+
 - **Sales:** Identify customer buying patterns and optimize product offerings through in-depth metrics.
+
+  **<img width="577" alt="Sales View" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/247cef27-eeb7-4075-9988-54e202bfdad7">**
+
 - **Marketing:** Develop targeted marketing campaigns based on data-driven insights from market research and customer analysis.
+
+  **<img width="574" alt="Market View" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/708f7bc4-3431-43a8-a8d9-ee7b12b25bfb">**
+
 - **Supply Chain:** Improve forecast accuracy and optimize logistics for efficient inventory management.
+
+  **<img width="581" alt="Supply Chain View" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/4295de9e-c03e-4fa9-8090-88bced96c7c1">**
+
 - **Executive:** Gain a holistic view of business performance with key metrics and KPIs for strategic decision-making.
+
+**<img width="579" alt="Exective View" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/69e04d42-e853-4f2e-a127-3ca34283437b">**
+
 
 ### Tech Skills Acquired
 
