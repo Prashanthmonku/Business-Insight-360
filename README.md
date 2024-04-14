@@ -1,4 +1,4 @@
-# Business-Insight-360
+# Business-Insights-360
 ## Project Overview
 
 AtliQ Hardwares is a company specializing in consumer electronics and hardware products, selling through various channels including brick-and-mortar stores like Croma and Best Buy, online platforms such as Amazon and Flipkart, and through direct sales and distributors. Despite its rapid expansion, AtliQ faces challenges in competing with data-driven companies as most of its reports are still in Excel. My objective is to introduce an advanced analytics solution using Power BI, empowering AtliQ to gain actionable insights and enhance decision-making capabilities.
