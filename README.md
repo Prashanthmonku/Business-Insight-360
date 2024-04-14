@@ -31,7 +31,7 @@ The goal of this project is to create a unified report that caters to stakeholde
 
 - **Executive:** Gain a holistic view of business performance with key metrics and KPIs for strategic decision-making.
 
-**<img width="579" alt="Exective View" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/69e04d42-e853-4f2e-a127-3ca34283437b">**
+  **<img width="579" alt="Exective View" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/69e04d42-e853-4f2e-a127-3ca34283437b">**
 
 
 ### Tech Skills Acquired
