@@ -33,7 +33,6 @@ The goal of this project is to create a unified report that caters to stakeholde
 
   **<img width="579" alt="Exective View" src="https://github.com/Prashanthmonku/Business-Insight-360/assets/66664885/69e04d42-e853-4f2e-a127-3ca34283437b">**
 
-
 ### Tech Skills Acquired
 
 - SQL
@@ -52,3 +51,93 @@ The goal of this project is to create a unified report that caters to stakeholde
 - **Choosing Visuals and Formatting:** Learned to choose the right visuals and formatting techniques for impactful data presentation.
 - **Power BI Service:** Gained proficiency in publishing, sharing, and collaborating on reports and dashboards through the cloud-based Power BI service.
 - **Integration with Microsoft Tools:** Explored how Power BI integrates seamlessly with other Microsoft tools like Excel, SharePoint, Teams, and Azure.
+
+### Business Related Terms
+
+- **Gross price**
+- **Pre-invoice deductions**
+- **Post-Invoice deductions**
+- **Net Invoice sale**
+- **Gross Margin**
+- **Net sales**
+- **Net profit**
+- **COGC - cost of goods sold**
+- **YTD - Year to Date**
+- **YTG - Year to Go**
+- **Direct**
+- **Retailer**
+- **Distributors**
+- **Consumer**
+
+### Exploring the Dataset: Understanding Available Data
+
+Analyze before you dive! Exploring the data first helps identify available dimensions (static data like customer details) and facts (transactional data like sales figures). This ensures analysis uses the most relevant information.
+
+**gdb041:**
+
+**dim_customer**
+- 27 distinct markets (e.g., India, USA, Spain)
+- 75 distinct customers throughout the market
+- 2 types of platforms
+  - Brick & Motors: Physical/offline store
+  - E-commerce: Online Store (Amazon, Flipkart)
+- Three channels
+  - Retailer
+  - Direct
+  - Distributors
+
+**dim_market**
+- 27 distinct markets (e.g., India, USA, Spain)
+- 7 sub-zones
+- 4 regions
+  - APAC
+  - EU
+  - NAN
+  - LATAM
+
+**dim_product**
+- Divisions:
+  - P & A (Peripherals & Accessories)
+  - PC (Personal Computer)
+  - Notebook
+  - Desktop
+  - N & S (Networking & Storage)
+- 14 different categories (e.g., Internal HDD, keyboard)
+- Different variants available for the same product
+
+**fact_forecast_monthly**
+- Used to forecast customer needs in advance
+- Benefits:
+  - Higher customer satisfaction
+  - Reduced storage costs in warehouses
+- Data denormalized for analytical work
+- Date of the month replaced by start date of the month
+- Includes forecast quantity needed by customers
+
+**fact_sales_monthly**
+- Similar to fact_forecast_monthly but with actual sold quantity instead of forecasted value
+
+**gdb056:**
+
+**freight_cost**
+- Details of travel and other costs for each market with fiscal year
+
+**gross_price**
+- Details of gross prices with product code
+
+**manufacturing_cost**
+- Details of manufacturing costs with product code and year
+
+**Pre_invoice_deductions**
+- Details of pre-invoice deductions percentage for each customer with year
+
+**Post_invoice_deductions**
+- Details of post-invoice and other deductions
+
+### Data Modeling
+
+Data modeling is crucial and forms the foundation of a report. All visuals are built upon the data model, making it a critical component for accurate insights. Poor data modeling can significantly impact the overall performance of the report.
+
+Adhering to best practices in data modeling is essential for optimal performance.
+
+please find the live Dashboard link [here](https://app.powerbi.com/view?r=eyJrIjoiMGNmYjhlYmYtZTNhOC00MTUxLTlkZTEtNjMwNDU3MmExNDIyIiwidCI6IjFhNjI4ZjEzLTEyYTUtNGI0OS05YWRjLTY5NGFkNzI2ZmU1MyJ9)
